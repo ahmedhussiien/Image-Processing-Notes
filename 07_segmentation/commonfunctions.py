@@ -14,7 +14,6 @@ import math
 
 from skimage.util import random_noise
 from skimage.filters import median
-from skimage.filters import threshold_adaptive
 from skimage.feature import canny
 from skimage.measure import label
 from skimage.color import label2rgb
